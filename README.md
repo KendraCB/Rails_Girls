@@ -4,7 +4,7 @@
 
 ### L.A. Adventure App
 
-*Made by* ** Your Name**
+*Made by* **Your Name**
 
 == README
 
